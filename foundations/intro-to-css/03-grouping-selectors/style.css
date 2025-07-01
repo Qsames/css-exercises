@@ -1,0 +1,13 @@
+.font-adjust {
+    font-family: Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+#yes {
+    background-color: black;
+    color: white;
+}
+
+#no {
+    background-color: yellow;
+}
